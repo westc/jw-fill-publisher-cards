@@ -1,4 +1,4 @@
-# JW PDF Filler
+# JW Fill Publisher Cards
 
 - This is a quick solution that relies on `pdftk` to fill in the publisher card automatically.
 - You will want to download the Publisher Card template from JW.org, name it `PublisherCard.es.pdf` and place it in this directory.
