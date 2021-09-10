@@ -1,0 +1,18 @@
+{
+  "name": "jw-pdf-filler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "fill-fields-py": "python run.py && pdftk PublisherCard.es.pdf fill_form PublisherCard.es.fdf output PublisherCard-filled.es.pdf",
+    "fill-fields": "node index.js && pdftk PublisherCard.es.pdf fill_form PublisherCard.es.xfdf output PublisherCard-filled.es.pdf",
+    "dump-fields": "pdftk PublisherCard.es.pdf dump_data_fields output PublisherCard.es.fields.txt",
+    "generate-fdf": "pdftk PublisherCard.es.pdf generate_fdf output PublisherCard.es.fdf"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fdf.js": "^0.1.3"
+  }
+}

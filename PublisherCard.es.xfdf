@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xfdf xmlns="http://ns.adobe.com/xfdf/" xml:space="preserve">
+	<fields>
+		<field name="Name">
+			<value>Juan&#32;Mamani&#32;Beltr&#225;n</value>
+		</field>
+		<field name="Date&#32;of&#32;birth">
+			<value>3&#32;agosto&#32;2001</value>
+		</field>
+		<field name="Date&#32;immersed">
+			<value>15&#32;enero&#32;2019</value>
+		</field>
+		<field name="Check&#32;Box1">
+			<value>Yes</value>
+		</field>
+		<field name="Check&#32;Box2">
+			<value>Off</value>
+		</field>
+		<field name="Check&#32;Box3">
+			<value>Yes</value>
+		</field>
+		<field name="Check&#32;Box4">
+			<value>Off</value>
+		</field>
+		<field name="Check&#32;Box5">
+			<value>Off</value>
+		</field>
+		<field name="Check&#32;Box6">
+			<value>Off</value>
+		</field>
+		<field name="Check&#32;Box7">
+			<value>Yes</value>
+		</field>
+		<field name="Service&#32;Year_2">
+			<value>2021</value>
+		</field>
+		<field name="2&#45;Hours_3">
+			<value>18</value>
+		</field>
+		<field name="2&#45;RV_3">
+			<value>12</value>
+		</field>
+		<field name="2&#45;Place_11">
+			<value>13</value>
+		</field>
+		<field name="2&#45;Hours_11">
+			<value>13</value>
+		</field>
+		<field name="2&#45;Hours_12">
+			<value>10</value>
+		</field>
+		<field name="2&#45;Studies_12">
+			<value>4</value>
+		</field>
+		<field name="RemarksAugust_2">
+			<value>Hello&#32;world&#33;&#33;&#33;</value>
+		</field>
+	</fields>
+</xfdf>

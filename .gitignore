@@ -1,0 +1,5 @@
+node_modules/
+venv/
+
+# Will not store PDFs in Git since they are property belonging to JW.org.
+*.pdf
